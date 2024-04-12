@@ -1,0 +1,48 @@
+.main {
+  background-color: #f4f4f4;
+  padding: 12px;
+  width: 250px;
+  border-radius: 8px;
+}
+
+.btn {
+  background-color: #4caf50;
+  color: white;
+  padding: 8px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  border-radius: 8px;
+  outline: none;
+}
+
+.input-field {
+  width: 100%;
+  padding: 8px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  outline: none;
+  border-radius: 8px;
+}
+
+#clear-btn{
+  background-color: #f44336;
+  color: white;
+  padding: 8px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  border-radius: 8px;
+  outline: none;
+  width: 80px;
+}
+p{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
